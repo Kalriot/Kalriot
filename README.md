@@ -22,6 +22,6 @@ const Edu = {
   frameworks: ["Node.js", "Express", "NestJS", "Django"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
   architecture: ["Microservices", "REST APIs", "Event-Driven"],
-  tools: ["Docker", "AWS", "Git", "Postman"],
+  tools: [ "AWS", "Git", "Postman"],
   philosophy: "First make it work, then make it right, then make it fast"
 };
